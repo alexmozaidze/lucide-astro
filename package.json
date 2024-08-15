@@ -28,5 +28,5 @@
 	},
 	"peerDependencies": {
 		"astro": ">=2.7.1"
-	},
+	}
 }
